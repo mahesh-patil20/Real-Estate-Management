@@ -106,7 +106,7 @@ const Navbar = (props) => {
             <NavLink
               to="/codb"
               style={({ isActive }) => ({
-                color: isActive ? "#466bda" : "#545e6f",
+                color: isActive ? "#e3324a" : "#545e6f",
                 textDecoration: "none",
                 fontWeight: "500",
                 // background: isActive ? '#7600dc' : '#f0f0f0',
@@ -135,7 +135,7 @@ const Navbar = (props) => {
             <NavLink
               to="/products"
               style={({ isActive }) => ({
-                color: isActive ? "#466bda" : "#545e6f",
+                color: isActive ? "#e3324a" : "#545e6f",
                 textDecoration: "none",
                 fontWeight: "500",
                 // background: isActive ? '#7600dc' : '#f0f0f0',
@@ -166,7 +166,7 @@ const Navbar = (props) => {
               <NavLink
                 to="/marketplace"
                 style={({ isActive }) => ({
-                  color: isActive ? "#466bda" : "#545e6f",
+                  color: isActive ? "#e3324a" : "#545e6f",
                   textDecoration: "none",
                   fontWeight: "500",
                   // background: isActive ? '#7600dc' : '#f0f0f0',
@@ -195,7 +195,7 @@ const Navbar = (props) => {
             ) : null}
             {/* <NavLink to="/order-history"
               style={({ isActive }) => ({
-                color: isActive ? '#466bda' : '#545e6f',
+                color: isActive ? '#e3324a' : '#545e6f',
                 textDecoration: 'none',
                 fontWeight: '500',
                 // background: isActive ? '#7600dc' : '#f0f0f0',
@@ -216,7 +216,7 @@ const Navbar = (props) => {
             <NavLink
               to="/orders"
               style={({ isActive }) => ({
-                color: isActive ? "#466bda" : "#545e6f",
+                color: isActive ? "#e3324a" : "#545e6f",
                 textDecoration: "none",
                 fontWeight: "500",
                 // background: isActive ? '#7600dc' : '#f0f0f0',
@@ -245,7 +245,7 @@ const Navbar = (props) => {
             <NavLink
               to="/copr"
               style={({ isActive }) => ({
-                color: isActive ? "#466bda" : "#545e6f",
+                color: isActive ? "#e3324a" : "#545e6f",
                 textDecoration: "none",
                 fontWeight: "500",
                 // background: isActive ? '#7600dc' : '#f0f0f0',
@@ -274,7 +274,7 @@ const Navbar = (props) => {
             <NavLink
               onClick={logout}
               style={({ isActive }) => ({
-                color: isActive ? "#466bda" : "#545e6f",
+                color: isActive ? "#e3324a" : "#545e6f",
                 textDecoration: "none",
                 fontWeight: "500",
                 // background: isActive ? '#7600dc' : '#f0f0f0',

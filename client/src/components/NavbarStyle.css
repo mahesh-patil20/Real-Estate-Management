@@ -294,7 +294,7 @@ a {
     height: 3px;
     left: 50%;
     position: relative;
-    background: #4682e5;
+    background: #e3324a;
     transition: width 0.3s ease 0s, left 0.3s ease 0s;
     width: 0;
     top: 5px;

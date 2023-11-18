@@ -51,7 +51,7 @@ const Navbar = () => {
 
             <NavLink to="/"
               style={({ isActive }) => ({
-                color: isActive ? '#466bda' : '#545e6f',
+                color: isActive ? '#e3324a' : '#545e6f',
                 textDecoration: 'none',
                 fontWeight: '500',
                 // background: isActive ? '#7600dc' : '#f0f0f0',
@@ -71,7 +71,7 @@ const Navbar = () => {
             </NavLink>
             <NavLink to="/homeabout"
               style={({ isActive }) => ({
-                color: isActive ? '#466bda' : '#545e6f',
+                color: isActive ? '#e3324a' : '#545e6f',
                 textDecoration: 'none',
                 fontWeight: '500',
                 // background: isActive ? '#7600dc' : '#f0f0f0',
@@ -91,7 +91,7 @@ const Navbar = () => {
             </NavLink>
             <NavLink to="/login"
               style={({ isActive }) => ({
-                color: isActive ? '#466bda' : '#545e6f',
+                color: isActive ? '#e3324a' : '#545e6f',
                 textDecoration: 'none',
                 fontWeight: '500',
                 // background: isActive ? '#7600dc' : '#f0f0f0',
