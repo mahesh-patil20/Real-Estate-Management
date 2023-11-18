@@ -53,12 +53,13 @@ export default function HomeAbout() {
               <img src={leftimg} alt="" id="firstimg" />
             </div>
             <div className="leftsec">
-              <h2>Who is Sangrah?</h2>
-              <div className="seewhy">We simplify inventory management, making it efficient and hassle-free.</div>
-              <div className="seewhyinfo">There’s a belief that inventory management solutions are simply there to track products and materials. But our mission is much broader than that. We understand that there's a better way to handle inventory.
-                Our approach to inventory management is to do what’s good for businesses and their growth.
-                <br />That's why we've dedicated ourselves to simplifying the inventory management process, making it efficient and straightforward. The result is a solution that brings organization, efficiency, confidence, and positive outcomes to the inventory management experience.</div>
+              <h2>Who is Vistaville?</h2>
+              <div className="seewhy">We simplify property portfolio management, making it efficient and hassle-free.</div>
+              <div className="seewhyinfo">There’s a belief that property management solutions are simply there to track listings and details. But our mission is much broader than that. We understand that there's a better way to handle property portfolios.
+                Our approach to property management is to do what’s good for real estate professionals and their success.
+                <br />That's why we've dedicated ourselves to simplifying the property management process, making it efficient and straightforward. The result is a solution that brings organization, efficiency, confidence, and positive outcomes to the property management experience.</div>
             </div>
+
 
           </div>
         </Fade>
@@ -69,12 +70,12 @@ export default function HomeAbout() {
 
           <Slide left>
             <div className="leftsec">
-              <h2>What is Sangrah?</h2>
-              {/* <div className="seewhy">We make online proctoring simple, easy, and human.</div> */}
+              <h2>What is Vistaville?</h2>
               <div className="seewhyinfo" id='absec2left'>
-                Sangrah is an innovative platform designed to help businesses efficiently manage their inventory. Our platform provides intuitive inventory management tools, allowing you to organize your products, set stock levels, and monitor restocking requirements with ease. Detailed reports and analytics offer valuable insights into inventory trends, enabling data-driven decision-making for your business. Sangrah is a comprehensive solution that empowers businesses to streamline and optimize their inventory management securely and efficiently.
+                Vistaville is an innovative platform designed to help real estate professionals efficiently manage their property portfolios. Our platform provides intuitive property management tools, allowing you to organize your listings, set occupancy levels, and monitor any maintenance requirements with ease. Detailed reports and analytics offer valuable insights into property trends, enabling data-driven decision-making for your real estate endeavors. Vistaville is a comprehensive solution that empowers professionals to streamline and optimize their property management securely and efficiently.
               </div>
             </div>
+
           </Slide>
           <Slide right>
             <div className="rightsec" id='absec2right'>
@@ -101,13 +102,12 @@ export default function HomeAbout() {
             <Fade bottom>
               <h2>Our Founders</h2>
               <div className="seewhyinfo">
-                Sangrah was founded by four dedicated individuals: Akash, Adwait, Mahesh, and Rohit. As students, they recognized the complexities of managing inventory and identified the need for a platform that could simplify and optimize the process. Despite facing challenges and having limited experience in inventory management software, they wholeheartedly committed to creating a user-friendly and efficient platform.
-                Their dedication to innovation, business, and customer satisfaction continues to drive Sangrah's mission. They aspire to keep refining and enhancing the platform to meet the evolving needs of businesses in the future.
+                Vistaville was founded by 2 dedicated individuals: Akash and Mahesh. As aspiring professionals in the real estate industry, they recognized the complexities of managing property portfolios and identified the need for a platform that could simplify and optimize the process. Despite facing challenges and having limited experience in property management software, they wholeheartedly committed to creating a user-friendly and efficient platform.
+                Their dedication to innovation, real estate, and customer satisfaction continues to drive Vistaville's mission. They aspire to keep refining and enhancing the platform to meet the evolving needs of real estate professionals in the future.
               </div>
+
             </Fade>
           </div>
-
-
         </div>
       </div >
       <Footer />

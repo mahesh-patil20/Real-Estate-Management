@@ -25,10 +25,11 @@ const Home = () => {
       <div className="sec1123">
         <Fade bottom>
           <div className="leftsec123">
-            <h2>Efficient Inventory Management at Your Fingertips</h2>
-            <div className="seewhy123">Discover why businesses prefer Sangrah over other inventory management solutions.</div>
-            <div className="seewhyinfo123">"Sangrah is my go-to inventory management platform. It allows me to streamline and optimize my inventory processes with ease, free from any hiccups. Sangrah's user-friendly interface simplifies the inventory management process, making it the ultimate choice for my business. Our company relies on Sangrah for all our inventory needs due to its efficiency and round-the-clock support."</div>
+            <h2>Efficient Property Portfolio Management at Your Fingertips</h2>
+            <div className="seewhy123">Discover why real estate professionals prefer Vistaville over other property management solutions.</div>
+            <div className="seewhyinfo123">"Vistaville is my go-to property management platform. It allows me to streamline and optimize my property processes with ease, free from any hiccups. Vistaville's user-friendly interface simplifies the property management process, making it the ultimate choice for my business. Our company relies on Vistaville for all our property management needs due to its efficiency and round-the-clock support."</div>
           </div>
+
         </Fade>
         <Fade bottom>
           <div className="rightsec123">
@@ -49,15 +50,16 @@ const Home = () => {
         <div className="sec2div1222">
           <Fade left>
             <div className="left123">
-              <h3>Manage Inventory</h3>
+              <h3>Property Management</h3>
               <div className="leftinfo123">
                 <ul>
-                  <li>Efficiently organize and track your inventory using our intuitive management tools.</li>
-                  <li>Add and categorize your products, set stock levels, and keep an eye on restocking needs.</li>
-                  <li>Generate reports to analyze inventory trends and make informed business decisions.</li>
+                  <li>Efficiently organize and track your property portfolio using our intuitive management tools.</li>
+                  <li>Add and categorize your properties, set occupancy levels, and monitor any maintenance needs.</li>
+                  <li>Generate reports to analyze property trends and make informed real estate decisions.</li>
                 </ul>
               </div>
             </div>
+
           </Fade>
           <Fade right>
             <div className="right123">
@@ -75,28 +77,31 @@ const Home = () => {
           </Fade>
           <Fade right>
             <div className="left123">
-              <h3>Verify Inventory and Begin Management</h3>
+              <h3>Verify Property and Start Management</h3>
               <div className="leftinfo123">
                 <ul>
-                  <li>Efficiently verify your inventory within 60 seconds.</li>
+                  <li>Efficiently verify your property listings within 60 seconds.</li>
                   <li>Access 24/7/365 customer support for any assistance.</li>
-                  <li>Utilize advanced inventory management software.</li>
+                  <li>Utilize cutting-edge property management software.</li>
                 </ul>
               </div>
             </div>
+
           </Fade>
         </div>
         <div className="sec2div1222">
           <Fade left>
             <div className="left123">
-              <h3>Review  Updates</h3>
+              <h3>Property Updates</h3>
               <div className="leftinfo123">
                 <ul>
-                  <li>Login to access your inventory updates on our platform.</li>
-                  <li>Check stock levels and receive feedback or notifications.</li>
-                  <li>Use these updates to guide your future inventory management and achieve your business goals.</li></ul>
+                  <li>Login to access the latest property updates on our platform.</li>
+                  <li>Check property availability and receive feedback or notifications.</li>
+                  <li>Utilize these updates to inform your real estate decisions and achieve your property goals.</li>
+                </ul>
               </div>
             </div>
+
           </Fade>
           <Fade right>
             <div className="right123">
@@ -115,13 +120,13 @@ const Home = () => {
             <div className="testimonial-box999">
               <div className="testimonial123">
                 <i className="fas123 fa-quote-right"></i>
-                <span className="testimonial-text123">"Efficient inventory management has been a game-changer for our business. A partnership with Sangrah has been one of our best decisions."</span>
+                <span className="testimonial-text123">"Our property sale with Vistaville surpassed expectations. The platform's innovative features and responsive support team made the process stress-free. A reliable choice for selling property."</span>
                 <div className="testimonial-user123">
                   <img src={testi1} alt="user-img" className="user-img123" />
                   <div className="user-info123">
                     <span className="user-name123">Brian Marchman</span>
                     <div className="user-job-details123">
-                      <span className="user-job">Business Owner</span>
+                      <span className="user-job">Property Owner</span>
                     </div>
                   </div>
                 </div>
@@ -129,35 +134,35 @@ const Home = () => {
             </div>
           </div>
 
-        <div className="container1111">
-          <div className="testimonial-box999">
-            <div className="testimonial123">
-              <i className="fas123 fa-quote-right"></i>
-              <span className="testimonial-text123">"Revolutionizing our operations, Sangrah's inventory management has redefined success for our company. A trusted ally, they've unlocked new horizons for us. Our growth story is incomplete without their invaluable support."</span>
-              <div className="testimonial-user123">
-                <img src={testi2} alt="user-img" className="user-img123" />
-                <div className="user-info123">
-                  <span className="user-name123">Brian Marchman</span>
-                  <div className="user-job-details123">
-                    <span className="user-job">Business Owner</span>
+          <div className="container1111">
+            <div className="testimonial-box999">
+              <div className="testimonial123">
+                <i className="fas123 fa-quote-right"></i>
+                <span className="testimonial-text123">"Vistaville exceeded my expectations in the property search. The platform's intuitive design and comprehensive listings provided a seamless experience. Finding my ideal property was quick and efficient. Highly recommend for any property seeker."</span>
+                <div className="testimonial-user123">
+                  <img src={testi2} alt="user-img" className="user-img123" />
+                  <div className="user-info123">
+                    <span className="user-name123">Brian Marchman</span>
+                    <div className="user-job-details123">
+                      <span className="user-job">Property Seeker</span>
+                    </div>
                   </div>
                 </div>
               </div>
             </div>
           </div>
-        </div>
 
           <div className="container1111">
             <div className="testimonial-box999">
               <div className="testimonial123">
                 <i className="fas123 fa-quote-right"></i>
-                <span className="testimonial-text123">"The transformation we've witnessed with Sangrah's inventory management is nothing short of remarkable. Their partnership is a strategic asset, propelling our business forward. In the journey of success, they've been our steadfast companion."</span>
+                <span className="testimonial-text123">"Vistaville made selling our property a breeze. The platform's user-friendly interface and effective tools led to a quick and successful sale. Highly recommended for its seamless experience."</span>
                 <div className="testimonial-user123">
                   <img src={testi3} alt="user-img" className="user-img123" />
                   <div className="user-info123">
                     <span className="user-name123">Brian Marchman</span>
                     <div className="user-job-details123">
-                      <span className="user-job">Business Owner</span>
+                      <span className="user-job">Property Owner</span>
                     </div>
                   </div>
                 </div>
